@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title> Benzinga </title>
+    <link>https://github.com/ProReview2024/RSS-FEED</link>
+    <description>A feed for Benzinga</description>
+    <item>
+      <title>Unlocking the Power of Arbitrage in Modern Markets</title>
+      <link>https://medium.com/@ProReviews2024/unlocking-the-power-of-arbitrage-in-modern-markets-bf11c9a6b7ca</link>
+      <description>David Randolph, the Arbitrage Director at Goldman Markets</description>
+      <pubDate>Mon, 25 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
+    <!-- Add more <item> entries here for each article -->
+  </channel>
+</rss>
